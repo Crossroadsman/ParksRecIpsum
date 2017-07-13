@@ -110,6 +110,78 @@ class ParksRecIpsum {
         "Both of them bitches.",
         "Tom, that was a Jäger secret; you just breached a Jäger secret."
     ]
+        private let ron_s2e5 = [
+        "Politically, no, I don't support Chavez.",
+        "I despise him and everything that he does.",
+        "On the other hand, this is is a pretty sweet-ass gun."
+    ]
+    private let ron_s2e6 = [
+        "I would prefer she ask for my permission so I could say no.",
+        "I like to say no, it lowers their enthusiasm.",
+        "That's right, you never did ask me for permission, did you?",
+        "Well, I'm sorry to burst your ka-bubble, but I just had my ass ka-handed to me by the city manager, and now this entire department is ka-screwed.",
+        "What the ka-fuck were you thinking?",
+    ]
+    private let ron_s2e7 = [
+        "No worries, I'd hate for you to have to go back to Canada.",
+        "All that... socialized medicine... up there.",
+        "Ann, do you have any mounds?",
+        "Because all I can find is Almond Joy, and almonds give me the squirts.",
+        "I'm a pirate."
+    ]
+    private let ron_s2e8 = [
+        "Oh, it's like Hannibal Lecter had sex with a car alarm and their offspring made a baby with the ghost of Saddam Hussein.",
+        "Tammy is a manipulative bitch by which all other manipulative bitches should be judged.",
+        "A genetically-mutated demon from Hell, who was sent to earth to castrate noble men.",
+        "Tammy doesn't just destroy happiness wherever she finds it, she actively seeks it out and demolishes it.",
+        "If happiness were truffles, Tammy would be a gigantic, repulsive hog.",
+        "Tammy's vagina is like if you took the tractor beam from the Death Star and inserted it where Jabba the Hutt's poo hole is.",
+        "So, you spoke to Tammy; what's it like to go skinny-dipping in the Devil's nest?",
+        "She's here, isn't she?",
+        "Evil is the only thing I can still smell.",
+        "To exes, may they always stay that way.",
+        "Tammy... is a mean person.",
+        "She's a grade-A bitch.",
+        "Every time she laughs, an angel dies.",
+        "Even telemarketers avoid her.",
+        "Her birth was payback for the sins of man.",
+        "But you know the worst thing about her?",
+        "She works for the library.",
+        "In the room, I don't want her to think I'm a wimp.",
+        "I don't think I can; we would just end up naked, and I'd give her your lot, and my house, God knows what else.",
+        "I have no control over my actions.",
+        "It's like she's crawled up inside me...",
+        "Not around her, I'm not.",
+        "It took years of intense, focused hatred to get over her.",
+        "And now I've undone all that great work.",
+        "You've got to help me break up with her.",
+        "I'm so screwed, Knope; her hooks are in my brain.",
+        "She has all the power, and I have nothing.",
+        "We didn't talk, we made love.",
+        "It was so intense: I don't know where my flesh stopped and hers began.",
+        "Our marriage was always a complete disaster, but we did have... that.",
+        "It's like doing peyote and sneezing slowly for 6 hours.",
+        "That woman really knows her way around a penis.",
+        "I'm a simple man.",
+        "I like pretty, dark-haired women and breakfast food.",
+        "But this stock photo I bought at a framing store isn't real.",
+        "Today, I got the real thing: a naked Tammy made me breakfast this morning.",
+        "Ah, I should have taken a picture of it.",
+        "Look, Tammy and I don't work.",
+        "We are oil and water; or oil, and TNT, and C4, and a detonator, and a butane torch.",
+        "Nothing good will come...",
+        "Wait...",
+        "She's here, isn't she?",
+        "So, you talked to Tammy.",
+        "What's it like to stare into the eye of Satan's butthole?",
+        "On my death bed, my final wish is to have my ex-wives rushed to my side so I can use my dying breath to tell them both to go to hell one last time.",
+        "Would I get married again?",
+        "Of course, oh absolutely.",
+        "If you don't believe in love, what's the point of living?",
+        "Not machines, I honestly believe she was programmed by someone from the future to come back and destroy all happiness.",
+        "Of course that bitch of an ex-wife is working for the library.",
+        "Now that is perfect: the worst person in the world, working at the worst place in the world."
+    ]
     
     //MARK: - Typealias
     //-----------------
@@ -129,7 +201,7 @@ class ParksRecIpsum {
         ]
         
         ron = [
-            [ron_s1e1,ron_s1e2,ron_s1e3,ron_s1e4,ron_s1e5,ron_s1e6],[ron_s2e1,ron_s2e2,ron_s2e3,ron_s2e4]
+            [ron_s1e1,ron_s1e2,ron_s1e3,ron_s1e4,ron_s1e5,ron_s1e6],[ron_s2e1,ron_s2e2,ron_s2e3,ron_s2e4,ron_s2e5,ron_s2e6,ron_s2e7,ron_s2e8]
         ]
     }
     

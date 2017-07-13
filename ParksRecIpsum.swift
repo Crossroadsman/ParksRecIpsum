@@ -89,9 +89,27 @@ class ParksRecIpsum {
         "It's like a fairytale.",
         "Hey, who wants to see me climb a tree?"
     ]
-    
-    private let ron_s2e1 = ["toDo"]
-    private let ron_s2e2 = ["toDo"]
+    private let ron_s2e1 = [String]() // no quotes
+    private let ron_s2e2 = [
+        "Pain is a state of mind and a weakness that I choose not to acknowledge.",
+        "There's a lot of people in this world in a lot more pain than I am.",
+        "There is no need for medical treatment.",
+        "I'm on a government health plan; I don't need taxpayers to pay for me to lay in bed and eat jello and watch Dr. Phil.",
+        "I was born ready: I'm Ron Fucking Swanson!",
+        "I have a hernia; had it for a while and I've been ignoring it... successfully.",
+        "But this morning I made the mistake of sneezing.",
+        "But as long as I sit still, don't move my head or torso, I'm good.",
+        "I got this."
+    ]
+    private let ron_s2e3 = [String]() // no quotes
+    private let ron_s2e4 = [
+        "I've established a scientifically perfect ten-point scale of human beauty.",
+        "Wendy is a 7.4, which is way too high for Tom, who is a 3.8.",
+        "Ten is tennis legend, Steffi Graf.",
+        "Looks to me like you're in the Taliban.",
+        "Both of them bitches.",
+        "Tom, that was a Jäger secret; you just breached a Jäger secret."
+    ]
     
     //MARK: - Typealias
     //-----------------
@@ -111,7 +129,7 @@ class ParksRecIpsum {
         ]
         
         ron = [
-            [ron_s1e1,ron_s1e2,ron_s1e3,ron_s1e4,ron_s1e5,ron_s1e6],[ron_s2e1,ron_s2e2]
+            [ron_s1e1,ron_s1e2,ron_s1e3,ron_s1e4,ron_s1e5,ron_s1e6],[ron_s2e1,ron_s2e2,ron_s2e3,ron_s2e4]
         ]
     }
     

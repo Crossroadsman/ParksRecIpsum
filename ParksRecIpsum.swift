@@ -197,11 +197,13 @@ class ParksRecIpsum {
     init() {
         // Load Persons
         tom = [
-            [tom_s1e1, tom_s1e2, tom_s1e6], [tom_s2e2,tom_s2e3, tom_s2e4, tom_s2e8, tom_s2e9, tom_s2e10, tom_s2e11, tom_s2e12, tom_s2e14, tom_s2e19, tom_s2e20, tom_s2e22, tom_s2e23], []
+            [tom_s1e1, tom_s1e2, tom_s1e6], 
+            [tom_s2e2,tom_s2e3, tom_s2e4, tom_s2e8, tom_s2e9, tom_s2e10, tom_s2e11, tom_s2e12, tom_s2e14, tom_s2e19, tom_s2e20, tom_s2e22, tom_s2e23], []
         ]
         
         ron = [
-            [ron_s1e1,ron_s1e2,ron_s1e3,ron_s1e4,ron_s1e5,ron_s1e6],[ron_s2e1,ron_s2e2,ron_s2e3,ron_s2e4,ron_s2e5,ron_s2e6,ron_s2e7,ron_s2e8]
+            [ron_s1e1,ron_s1e2,ron_s1e3,ron_s1e4,ron_s1e5,ron_s1e6],
+            [ron_s2e1,ron_s2e2,ron_s2e3,ron_s2e4,ron_s2e5,ron_s2e6,ron_s2e7,ron_s2e8]
         ]
     }
     

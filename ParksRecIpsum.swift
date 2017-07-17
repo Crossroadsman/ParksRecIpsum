@@ -182,6 +182,56 @@ class ParksRecIpsum {
         "Of course that bitch of an ex-wife is working for the library.",
         "Now that is perfect: the worst person in the world, working at the worst place in the world."
     ]
+    private let ron_s2e9 = [
+        "There's nothing wrong with cookie cutter.",
+        "You know what you get with cookie cutter?",
+        "A perfectly-shaped cookie.",
+        "Would you rather eat a deformed, gingerbread blob, or a perfectly-shaped little man?",
+        "I'd rather eat a man... a cookie man... you understand, I'm talking about cookies, right?",
+        "Who did this?",
+        "I like it.",
+        "Yeah, it comforts me.",
+        "That'll win.",
+        "I don't know what happened, frankly.",
+        "I emitted a noise.",
+        "The noise was involuntary.",
+        "Sometimes, a sounds is just a sound, ya know?",
+        "No, no, I have a bunion that's practically its own toe.",
+        "Normally the pain howls through my loafers like a banshee on the moors.",
+        "But these three minutes, it's been reduced to a faint growl.",
+        "I'm impressed with Andy, pulling himself up by his bootstraps.",
+        "Reminds me of a young me.",
+        "I got my first job when I was nine, working at a sheet-metal factory.",
+        "In two weeks I was running the floor.",
+        "Child-labor laws are ruining this country."
+    ]
+    private let ron_s2e10 = [
+        "That, Thomas, is the smell of man's triumph over nature: dried animal carcasses.",
+        "I know, you did good.",
+        "You're a real stand-up guy.",
+        "Sorry I lost my temper before, it was 'cause I was shot in the head by a moron.",
+        "Apology not accepted, moron.",
+        "You know, Leslie, the Super Bowl's in a couple of months.",
+        "I usually watch it with my brothers.",
+        "Maybe you could come by at half-time and shoot me in the head.",
+        "Or perhaps, the next time I'm enjoying some alone time in the mens' restroom, you could invite youself into my stall and shoot me in the head.",
+        "Sure, how about you shoot me in the head?",
+        "Oh wait, you already did that.",
+        "Maybe the next time I'm at the doctor's office getting my prostate examined, you could come by and shoot me in the head.",
+        "Attention person who shot me in the head. I'm gonna find you and I'm gonna tear you apart.",
+        "When I look at my palm, I see a lady's mouth french-kissing a dog.",
+        "Is that normal?",
+        "Seven... eight? But I washed 'em down with plenty of fluids.",
+        "No, I'm not wasting twenty-year-old scotch.",
+        "Yeah, I'm gonna... I'm gonna just stay angry.",
+        "I find that relaxes me.",
+        "Rule number one: do not point the weapon at a person.",
+        "That includes your own face, Donna.",
+        "Now, every year before we go on our first hunt, we do a toast, so grab a beer.",
+        "To the hunt.",
+        "And just like that, the one tiny aspect of government I enjoyed was clubbed to death before my eyes.",
+        "Is this not rap?"
+    ]
     
     //MARK: - Typealias
     //-----------------
@@ -203,7 +253,7 @@ class ParksRecIpsum {
         
         ron = [
             [ron_s1e1,ron_s1e2,ron_s1e3,ron_s1e4,ron_s1e5,ron_s1e6],
-            [ron_s2e1,ron_s2e2,ron_s2e3,ron_s2e4,ron_s2e5,ron_s2e6,ron_s2e7,ron_s2e8]
+            [ron_s2e1,ron_s2e2,ron_s2e3,ron_s2e4,ron_s2e5,ron_s2e6,ron_s2e7,ron_s2e8, ron_s2e9, ron_s2e10]
         ]
     }
     
